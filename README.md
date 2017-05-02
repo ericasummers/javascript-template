@@ -1,23 +1,10 @@
-# _Ping Pong_
+# _JavaScript Framework Template_
 
-#### _A ping pong web app_
-
-#### By _**Sean Peterson**_
-https://github.com/Sean-Peterson
+#### By _**Sean Peterson & Erica Wright**_
 
 ## Description
 
-_A web app that will turn a number into a game of ping pong._
-
-## Specs
-
-* _Scope: Take a user inputted number, make into numbered array from 1 to X, change numbers evenly divisible by 3 and 5 to ping-pong, change numbers evenly divisible by 5 to pong, and change numbers evenly divisible by 3 to ping. After the transformation, display results back to user in a list form._
-* _Input: User inputted whole integer. Output: X_
-* _Convert X into array numbers counting from 1 to X. Output: [1 to X]_
-* _Input: y = [1 to X] Output: if n of Y % 3 = 0 and n of Y % 5 = 0 then replace with ping-pong_
-* _Input: y = [1 to X] Output: if n of Y % 5 = 0 then replace with pong_
-* _Input: y = [1 to X] Output: if n of Y % 3 = 0 then replace with ping_
-* _Input: array of numbers and words. Output: List of numbers and words from 1 to X with replaced values._
+_A JavaScript template for an app built using the JS/Node.js framework._
 
 ## Setup/Installation Requirements
 
@@ -39,4 +26,4 @@ _jQuery_
 
 ### License
 
-Copyright (c) 2017 **_Sean Peterson_**
+Copyright (c) 2017 **_Sean Peterson & Erica Wright_**
